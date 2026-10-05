@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/notebook/META"
+  "_build/install/default/lib/notebook/dune-package"
+  "_build/install/default/lib/notebook/opam"
+]
+bin: [
+  "_build/install/default/bin/notebook"
+]

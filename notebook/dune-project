@@ -1,0 +1,13 @@
+(lang dune 3.0)
+(name notebook)
+(package
+ (name notebook)
+ (synopsis "Markdown 备忘录（GTK3）")
+ (description
+  "一个本地优先的 Markdown 备忘录：编辑与预览、SQLite 持久化、全文搜索、\n标签、待办、置顶、自动保存，正文可选 AES-256-GCM 加密，笔记可带图片附件。\n\n预览由 Pango 富文本渲染，不依赖 WebKit；待办的勾选状态直接写在正文里，\n不单独存一份。")
+ (depends
+  (ocaml (>= "5.0"))
+  (dune (>= "3.0"))
+  lablgtk3
+  sqlite3
+  cryptokit))

@@ -1,0 +1,26 @@
+opam-version: "2.0"
+synopsis: "本地优先的 Markdown 备忘录（GTK3）"
+description: """
+一个本地优先的 Markdown 备忘录：编辑与预览、SQLite 持久化、全文搜索、标签、
+待办、置顶、自动保存，正文可选 AES-256-GCM 加密，笔记可带图片附件。
+
+预览由 Pango 富文本渲染，不依赖 WebKit。待办的勾选状态直接写在正文里，不额外
+存一份，所以用任何别的编辑器改完 Markdown 也能对上。
+
+数据默认放在 ~/.local/share/notebook/notebook.db，也可以用 XDG_DATA_HOME 或
+NOTEBOOK_DB 改位置，或在命令行上直接给一个数据库路径。
+"""
+maintainer: ["TODO <todo@example.com>"]
+authors: ["TODO"]
+license: "TODO"
+depends: [
+  "ocaml" {>= "5.0"}
+  "dune" {>= "3.0"}
+  "lablgtk3"
+  "sqlite3"
+  "cryptokit"
+]
+build: [
+  ["dune" "subst"] {dev}
+  ["dune" "build" "-p" name "-j" jobs "@install" "@runtest" {with-test} "@doc" {with-doc}]
+]

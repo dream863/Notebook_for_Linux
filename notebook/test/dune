@@ -1,0 +1,7 @@
+(test
+ (name test_core)
+ (libraries notebook_core unix))
+
+(executable
+ (name gui_smoke)
+ (libraries notebook_core notebook_view lablgtk3 unix))

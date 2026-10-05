@@ -1,0 +1,246 @@
+(6:config4:init19:1791194569307371472(7:version6:3.23.1)(9:build_dir6:_build)(4:argv(4:dune4:test))(3:env(15:SHELL=/bin/bash137:CAML_LD_LIBRARY_PATH=/home/noob/.opam/default/lib/stublibs:/home/noob/.opam/default/lib/ocaml/stublibs:/home/noob/.opam/default/lib/ocaml18:QT_ACCESSIBILITY=157:OCAML_TOPLEVEL_PATH=/home/noob/.opam/default/lib/toplevel19:COLORTERM=truecolor44:XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg22:XDG_MENU_PREFIX=gnome-43:GNOME_DESKTOP_SESSION_ID=this-is-deprecated26:QT_IM_MODULES=wayland;ibus47:PTYXIS_PROFILE=8dfbb51d4cc21c6ff3e6a9b86a660d9e44:JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd6436:SSH_AUTH_SOCK=/run/user/1000/gcr/ssh7:AGENT=150:MEMORY_PRESSURE_WRITE=c29tZSAyMDAwMDAgMjAwMDAwMAA=19:XMODIFIERS=@im=ibus22:DESKTOP_SESSION=ubuntu27:GTK_MODULES=gail:atk-bridge29:DBUS_STARTER_BUS_TYPE=session59:OCAMLTOP_INCLUDE_PATH=/home/noob/.opam/default/lib/toplevel30:PWD=/home/noob/音乐/notebook26:XDG_SESSION_DESKTOP=ubuntu12:LOGNAME=noob24:XDG_SESSION_TYPE=wayland37:MANPATH=:/home/noob/.opam/default/man51:GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:121:SYSTEMD_EXEC_PID=409553:XAUTHORITY=/run/user/1000/.mutter-Xwaylandauth.N2USW343:OPAM_SWITCH_PREFIX=/home/noob/.opam/default18:OPENCODE_PID=1634615:HOME=/home/noob13:USERNAME=noob10:OPENCODE=116:LANG=zh_CN.UTF-81763:LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.swp=00;90:*.tmp=00;90:*.dpkg-dist=00;90:*.dpkg-old=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:32:XDG_CURRENT_DESKTOP=ubuntu:GNOME124:MEMORY_PRESSURE_WATCH=/sys/fs/cgroup/user.slice/user-1000.slice/user@1000.service/session.slice/dbus.service/memory.pressure16:VTE_VERSION=840025:WAYLAND_DISPLAY=wayland-046:INVOCATION_ID=5506dd2977c24f65aa1b700dd6403bc915:MANAGERPID=407156:ANDROID_NDK_HOME=/home/noob/Android/Sdk/ndk/25.2.951965342:GNOME_SETUP_DISPLAY=unix:/tmp/.X11-unix/X133:LESSCLOSE=/usr/bin/lesspipe %s %s22:XDG_SESSION_CLASS=user35:ANDROID_HOME=/home/noob/Android/Sdk19:TERM=xterm-256color31:LESSOPEN=| /usr/bin/lesspipe %s9:USER=noob10:DISPLAY=:07:SHLVL=217:QT_IM_MODULE=ibus87:DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=4b50a0dccea82a5a6cf72e206ac32e0520:MANAGERPIDFDID=2510930:XDG_RUNTIME_DIR=/run/user/100046:DEBUGINFOD_URLS=https://debuginfod.ubuntu.com 23:IM_CONFIG_ENTRY=profile178:XDG_DATA_DIRS=/usr/share/ubuntu:/usr/share/gnome:/home/noob/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop29:OPENCODE_DISABLE_AUTOUPDATE=1316:PATH=/home/noob/.opam/default/bin:/snap/opencode/237/usr/bin:/home/noob/Android/Sdk/cmdline-tools/latest/bin:/home/noob/Android/Sdk/platform-tools:/usr/lib/jvm/java-17-openjdk-amd64/bin:/home/noob/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin17:GDMSESSION=ubuntu44:XDG_SESSION_EXTRA_DEVICE_ACCESS=render:accel91:DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=4b50a0dccea82a5a6cf72e206ac32e0519:PTYXIS_VERSION=50.135:GIO_LAUNCHED_DESKTOP_FILE_PID=1629622:FLATPAK_TTY_PROGRESS=133:OLDPWD=/home/noob/音乐/notebook79:OPAM_LAST_ENV=/home/noob/.opam/.last-env/env-ff54d11710520d8796ae6ac669409886-018:_=/usr/bin/timeout))(4:root26:/home/noob/音乐/notebook)(3:pid5:95787)(11:initial_cwd26:/home/noob/音乐/notebook)(5:start19:1791194569299633914))(3:log4:info19:1791194569307434648(7:message10:ocamlparam)(10:OCAMLPARAM5:unset))(3:log4:info19:1791194569307507653(7:message20:Shared cache enabled)(13:cache_enabled25:Enabled_except_user_rules))(3:log4:info19:1791194569307517903(7:message21:Shared cache location)(8:root_dir25:/home/noob/.cache/dune/db))(3:log4:info19:1791194569307539597(7:message14:Workspace root)(4:root46:"/home/noob/\233\159\179\228\185\144/notebook"))(3:log4:info19:1791194569310977899(7:message25:Auto-detected concurrency)(11:concurrency1:8))(6:thread12:spawn_thread19:1791194569311006838(4:name14:signal-watcher))(5:build11:build-start19:1791194569311186088(6:run_id1:0)(7:restart5:false))(10:persistent2:db(19:17911945693112517316:209824)(4:path17:_build/.digest-db)(6:module9:DIGEST-DB)(9:operation4:load))(3:log4:info19:1791194569311883877(7:message12:Dune context)(7:context((4:name7:default)(4:kind7:default)(7:profile3:Dev)(6:merlin4:true)(14:fdo_target_exe())(9:build_dir(12:In_build_dir7:default))(15:instrument_with()))))(5:rules9:Dune load(19:17911945693119031636:176036)(3:dir1:.))(7:process5:start19:1791194569312367382(12:process_args(7:-config))(3:pid5:95791)(10:categories())(6:queued4:1029)(4:prog39:/home/noob/.opam/default/bin/ocamlc.opt)(3:dir1:.))(7:process15:signal_received19:1791194569320147044(6:signal4:CHLD))(7:process6:finish(19:17911945693123673827:7861184)(12:process_args(7:-config))(3:pid5:95791)(10:categories())(4:prog39:/home/noob/.opam/default/bin/ocamlc.opt)(3:dir1:.)(4:exit1:0)(6:rusage((13:user_cpu_time7:2925000)(15:system_cpu_time7:2925000)(6:maxrss5:28480)(6:minflt4:1276)(6:majflt1:0)(7:inblock1:0)(7:oublock1:0)(5:nvcsw1:1)(6:nivcsw1:1))))(10:persistent2:db(19:17911945693206716246:158732)(4:path10:_build/.db)(6:module14:INCREMENTAL-DB)(9:operation4:load))(7:process5:start19:1791194569338000111(12:process_args())(3:pid5:95792)(10:categories())(6:queued4:1839)(4:prog15:./test_core.exe)(3:dir19:_build/default/test)(12:target_files(79:_build/.actions/default/test/runtest-test_core-fa0768f7a829db4b951d58a4f8a5d6b6)))(7:process15:signal_received19:1791194583759848476(6:signal4:CHLD))(7:process6:finish(19:179119456933800011111:14421932012)(12:process_args())(3:pid5:95792)(10:categories())(4:prog15:./test_core.exe)(3:dir19:_build/default/test)(4:exit1:0)(12:target_files(79:_build/.actions/default/test/runtest-test_core-fa0768f7a829db4b951d58a4f8a5d6b6))(6:stdout7642:notebook core 测试
+
+[Model]
+  ok   标题为空时用正文首行兜底
+  ok   标题和正文都空时显示无标题
+  ok   纯空白也走无标题
+  ok   display_title 截断长行
+  ok   置顶排在前面
+  ok   同置顶状态按更新时间倒序
+  ok   sort_for_list 长度
+  ok   sort_for_list 首项是置顶项
+  ok   touch 会推进 updated_at
+
+[Crypto]
+  ok   盐长度 16
+  ok   两次生成的盐不同
+  ok   KDF 算法名
+  ok   迭代次数 >= 600000
+  ok   nonce 长度 12
+  ok   密文不等于明文
+  ok   往返解密一致
+  ok   同密钥同明文两次加密密文不同（nonce 不复用）
+  ok   口令错误抛 Bad_password 而不是返回乱码
+  ok   密文被篡改抛 Bad_password
+  ok   二进制数据往返一致
+  ok   空串往返
+  ok   中英混排往返
+
+[Store 基本 CRUD]
+  ok   新建库默认未加密
+  ok   新笔记 id > 0
+  ok   标题往返
+  ok   正文往返
+  ok   标签往返（排序去重后）
+  ok   未置顶
+  ok   列表长度 2
+  ok   保存后正文更新
+  ok   保存后标签保留
+  ok   置顶后排在首位
+  ok   all_tags 汇总两个标签
+  ok   标签去重
+  ok   空白标签被丢弃
+  ok   删除后剩 1 条
+  ok   删除后 get_note 返回 None
+  ok   删除笔记后标签字典仍保留
+  ok   删除不存在的 id 不抛异常
+
+[Store 重启后恢复]
+  ok   重启后标题
+  ok   重启后正文
+  ok   重启后标签
+  ok   重启后置顶状态保留
+  ok   重启后 created_at 不变
+
+[Store 默认路径与目录创建]
+  ok   默认路径以 notebook.db 结尾
+  ok   默认路径在 XDG data 下或 HOME 下
+  ok   NOTEBOOK_DB 可覆盖路径
+
+[Store 加密模式]
+  ok   未加密时能看到明文正文
+  ok   未加密时图片是原字节
+  ok   开启后 is_encrypted 为真
+  ok   KDF 算法已落库
+  ok   迭代次数已落库
+  ok   盐已落库
+  ok   加密模式下标题仍明文可读
+  ok   加密模式下正文能解密回来
+  ok   加密模式下标签可用
+  ok   加密模式下列表读取正常
+  ok   更新加密正文后可再读回
+  ok   enable_crypto 把已有明文正文改写成密文
+  ok   enable_crypto 后旧笔记仍能正常读出
+  ok   enable_crypto 把已有图片也加密
+  ok   图片落盘内容已不是明文字节
+  ok   关闭后 is_encrypted 为假
+  ok   关闭加密后新笔记正文仍是原文
+  ok   关闭加密后旧笔记正文也还原
+  ok   关闭加密后旧图片字节还原
+  ok   关闭加密后正文落盘即明文
+  ok   关闭加密后再启用也正常
+
+[Store 加密库重启 / 解锁校验]
+  ok   重开后仍是加密状态
+  ok   未解锁时读取报错，而不是返回密文或空结果
+  ok   错误口令解锁失败
+  ok   正确口令解锁成功
+  ok   落盘内容不等于明文
+  ok   正确口令能解开落盘密文
+  ok   错误口令解不开落盘密文
+  ok   空库加密后也能验证口令
+
+[Store 图片 BLOB]
+  ok   图片 id > 0
+  ok   图片 mime
+  ok   图片宽
+  ok   图片高
+  ok   图片字节往返一致
+  ok   image_data 带回元数据
+  ok   加密模式图片往返一致
+  ok   加密模式图片元数据保留
+  ok   空图片字节往返
+  ok   删除图片后取不到
+  ok   删除不存在的图片不抛异常
+
+[图片与笔记的关联]
+  ok   新建笔记没有图片
+  ok   按插入顺序返回
+  ok   链接顺序可以读回来
+  ok   别的笔记看不到这些图
+  ok   一张图能被两条笔记引用
+  ok   摘掉甲的关联后甲这边没有了
+  ok   但乙还引用着，所以图片不能被回收
+  ok   还有人引用时 gc 不删它
+  ok   乙的图还在
+  ok   没人引用时 gc 删掉图片
+  ok   同一张图重复链接只有一行
+  ok   删笔记会回收只被它引用的图片
+  ok   删笔记不动别的笔记还在用的图片
+  ok   甲的图片列表没被动过
+  ok   全部摘掉后 gc 清空图片池
+  ok   池子空了
+
+[图片关联 + 加密]
+  ok   加密后关联还在
+  ok   加密后图片字节能解密回来
+  ok   磁盘上的图片字节不是明文
+  ok   关闭加密后字节回到明文
+  ok   关闭加密后关联还在
+
+[标签规范化]
+  ok   去首尾空白
+  ok   丢掉空串
+  ok   去重
+  ok   按名字排序而不是按输入顺序
+  ok   幂等（规范化两次结果相同）
+
+[搜索分级（trigram >= 3 字符，否则 LIKE）]
+  ok   3 字查询走 trigram 命中
+  ok   2 字查询降级 LIKE 命中
+  ok   2 字查询命中
+  ok   1 字查询命中
+  ok   无匹配返回空
+  ok   空查询返回空
+  ok   纯空白查询返回空
+  ok   FTS 特殊字符不导致 SQL 报错
+  ok   LIKE 通配符 % 被当作字面量而非通配
+  ok   正文匹配（解密后内存扫描）
+  ok   正文匹配大小写不敏感
+  ok   正文不匹配返回 false
+  ok   空查询不匹配任何正文
+
+[FTS 索引与增删改保持一致]
+  ok   新建后能搜到
+  ok   改标题后旧标题搜不到
+  ok   改标题后新标题能搜到
+  ok   删除后搜不到
+
+[Markdown 解析]
+  ok   识别一级标题
+  ok   识别二级标题
+  ok   识别段落
+  ok   识别两个待办
+  ok   待办行号从 0 起
+  ok   第二个待办行号为 1
+  ok   未勾选状态正确
+  ok   已勾选状态正确
+  ok   同时识别普通列表项
+  ok   识别代码块
+  ok   识别有序列表
+  ok   有序列表带正确序号
+  ok   识别引用
+  ok   识别分隔线
+  ok   识别星号列表
+  ok   识别加号列表
+  ok   粗体
+  ok   斜体
+  ok   删除线
+  ok   行内代码
+  ok   链接
+  ok   加粗标题带内容
+  ok   缺空格的 [ ] 不误判为待办
+  ok   段落里的 [x] 不误判为待办
+  ok   代码块里的待办不识别为 Todo
+  ok   未闭合的 ** 不抛异常
+  ok   未闭合的 ` 不抛异常
+  ok   空文档可解析
+  ok   无未闭合围栏时整篇当作正文
+  ok   escape_markup 转义 &
+  ok   escape_markup 转义 <
+  ok   escape_markup 转义 >
+  ok   escape_markup 转义引号
+  ok   escape_markup 保留普通中文
+  ok   统计总数
+  ok   统计已完成
+  ok   统计未完成
+  ok   无待办时 total 为 0
+
+[Markdown 待办反写（单一数据源，不存在两份状态）]
+  ok   未勾选变已勾选
+  ok   已勾选变回未勾选
+  ok   第二项被切换
+  ok   切换两次回到原文
+  ok   切换后总长度不变
+  ok   缩进保持
+  ok   中文待办反写
+  ok   大写 X 视为已勾选
+  ok   行号越界原样返回
+  ok   负行号原样返回
+  ok   非待办行不被改
+  ok   代码块内的待办不被改
+  ok   待办行号与 parse 结果一致
+  ok   反写结果能重新解析出正确状态
+
+[Pango markup（正文里的元字符必须转义）]
+  ok   & 被转义
+  ok   < 被转义
+  ok   > 被转义
+  ok   代码块内尖括号被转义
+  ok   标题带 <b>
+  ok   一级标题字号 19
+  ok   六级标题字号 12
+  ok   标题带颜色
+  ok   未勾选待办有方框字符
+  ok   已勾选待办有勾号字符
+  ok   空笔记有占位提示
+  ok   正文分段输出换行
+  ok   markdown 里的 Pango 标签被中和（无裸 <span）
+  ok   markdown 里的标签以转义形式出现
+  ok   行内代码用等宽字体
+  ok   链接只加样式不加可点击标签
+  ok   加粗内容带 <b>
+  ok   删除线带 <s>
+  ok   列表项带缩进
+  ok   超长文档也能生成 markup
+
+[Render run 的待办行号]
+  ok   复选框行号与解析结果一致
+  ok   普通文本不带待办行号
+  ok   带待办的文档也有行号
+  ok   代码块里的 '- [ ]' 不被当成待办
+  ok   待办的点击范围不会溢出到下一段
+  ok   勾选后的待办：复选框和带删除线的正文分成两段
+
+208 项检查，0 项失败
+)(6:rusage((13:user_cpu_time11:14405432000)(15:system_cpu_time8:10996000)(6:maxrss5:29888)(6:minflt4:1446)(6:majflt1:0)(7:inblock1:0)(7:oublock1:0)(5:nvcsw1:1)(6:nivcsw3:516))))(6:action10:write-file(19:17911945837601994305:58765)(4:file79:_build/.actions/default/test/runtest-test_core-fa0768f7a829db4b951d58a4f8a5d6b6)(4:size1:0))(6:thread12:spawn_thread19:1791194583760307504(4:name11:thread-pool))(6:thread12:spawn_thread19:1791194583760364034(4:name11:thread-pool))(6:thread12:spawn_thread19:1791194583760411128(4:name11:thread-pool))(6:thread12:spawn_thread19:1791194583760449248(4:name11:thread-pool))(5:rules13:Alias builder(19:179119456931222639211:14448509274)(3:dir1:.))(5:build12:build-finish(19:179119456931118608811:14449585878)(6:run_id1:0)(7:outcome7:success))(7:process15:signal_received19:1791194583760810156(6:signal4:USR1))(10:persistent2:db(19:17911945837608572536:320515)(4:path10:_build/.db)(6:module14:INCREMENTAL-DB)(9:operation4:save))(6:config4:exit19:1791194583761187753(2:gc((10:stack_size1:0)(10:heap_words6:539150)(14:top_heap_words6:539150)(11:minor_words8:1966051.)(11:major_words7:444876.)(14:promoted_words7:420546.)(11:compactions1:0)(17:major_collections1:3)(17:minor_collections1:9)))(2:io((10:files_read((5:count2:18)(4:time6:330778)(5:bytes4:8630)))(13:files_written((5:count1:2)(4:time1:0)(5:bytes1:7)))(16:directories_read((5:count1:1)(4:time1:0)))))(6:digest((5:files((5:count1:1)(4:time5:32899)(5:bytes1:0)))(6:values((5:count2:13)(4:time5:42306)(5:bytes5:13248))))))

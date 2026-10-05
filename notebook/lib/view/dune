@@ -1,0 +1,5 @@
+(library
+ (name notebook_view)
+ (libraries notebook_core lablgtk3)
+ (flags
+  (:standard -w +a-4-9-40-41-42-44-45-48-67-70 -warn-error -a)))

@@ -1,0 +1,5 @@
+(executable
+ (name main)
+ (public_name notebook)
+ (package notebook)
+ (libraries notebook_view))

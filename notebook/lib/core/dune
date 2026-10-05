@@ -1,0 +1,4 @@
+(library
+ (name notebook_core)
+ (wrapped false)
+ (libraries sqlite3 cryptokit unix))
